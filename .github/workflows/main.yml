@@ -30,4 +30,4 @@ jobs:
                   context: .
                   file: ./Dockerfile
                   push: true
-                  tags: $/dotnet-docker-tutorial:latest
+                  tags: $/test:latest
